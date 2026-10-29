@@ -1,16 +1,14 @@
-## Hi there 👋
+### Salut, moi c'est Diams 👋
 
-<!--
-**Diamsdv/Diamsdv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 L1 Informatique @ Bangate Université de montagne, Cameroun
+💻 Passionné par le dev web
+🌱 En train d'apprendre : HTML, CSS, JavaScript, Git
+🚀 Objectif 2026 : Devenir dev full-stack & intégrer un incubateur
 
-Here are some ideas to get you started:
+### 🛠️ Je code avec
+`HTML` `CSS` `JavaScript` `Git`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Me retrouver
+GitHub: @Diamsdv
+
+> "Chaque ligne de code est un pas vers mon futur."
